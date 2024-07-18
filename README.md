@@ -1,6 +1,6 @@
 ## ArgoCD on EKS demo
 
-This workshop covers Application deployment (both runtime and infrastructure services) and Addons management in a multi-cluster scenario, where a single Argo CD (hub) cluster manages the deployment to all other workload clusters (spokes) in the organization
+This demo covers Application deployment (both runtime and infrastructure services) and Addons management in a multi-cluster scenario, where a single Argo CD (hub) cluster manages the deployment to all other workload clusters (spokes) in the organization
 
 ## Use Cases
 
